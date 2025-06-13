@@ -1,8 +1,9 @@
-Heart Attack Prediction Using Machine Learning.
-This project predicts the risk of heart attack using ML models like Logistic Regression, SVM, and Decision Tree.
+# Heart Attack Prediction ❤️🔬
 
-Dataset
-The dataset contains patient health metrics, including:
+This project predicts the risk of a heart attack using patient health records and classification algorithms.
 
-Age, Blood Pressure, Cholesterol, Heart Rate, Blood Sugar, etc.
-Target Variable: 1 (High Risk) / 0 (Low Risk)
+## 📌 Key Highlights
+- Data preprocessing and feature selection based on clinical relevance.
+- Trained classification models (e.g., Logistic Regression, Random Forest).
+- Evaluated using accuracy, precision, recall, and ROC-AUC.
+- Deployed a Streamlit app for users to input health data and get risk predictions.
